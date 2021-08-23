@@ -17,10 +17,10 @@ namespace SomandoDoisNumeros
             Console.WriteLine("Somando dois valores");
 
             Console.Write("\nDigite o 1º valor: ");
-            num1 = int.Parse(Console.ReadLine());
+            num1 = int.Parse(Console.ReadLine()); //recebe o valor digitado e armazena na variável.
 
             Console.Write("\nDigite 0 2º valor: ");
-            num2 = int.Parse(Console.ReadLine());
+            num2 = int.Parse(Console.ReadLine()); 
 
             result1 = num1 + num2;
             result2 = num1 - num2;
