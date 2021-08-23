@@ -31,7 +31,7 @@ namespace SomandoDoisNumeros
             Console.WriteLine("\nO resultado da soma é: " + result1);
             Console.WriteLine("\nO resultado da subtração é: " + result2);
             Console.WriteLine("\nO resultado da multiplicação é: " + result3);
-            Console.WriteLine("\nO resultado da divisão é: " + result4);
+            Console.WriteLine("\nO resultado da divisão é: " + result4); // \n pula uma linha no corsole.
 
 
             Console.ReadLine();
